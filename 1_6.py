@@ -11,3 +11,4 @@ print(set_)
 set_.update({'Tom', 7})
 set_.remove('Pavel')
 print(set_)
+
